@@ -1,0 +1,12 @@
+SMAP
+logoutmsg_jsp.java
+JSP
+*S JSP
+*F
++ 0 logoutmsg.jsp
+logoutmsg.jsp
+*L
+5,12:44
+18,5:58
+22,4:63
+*E

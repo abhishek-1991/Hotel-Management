@@ -1,0 +1,12 @@
+SMAP
+currentcustomers_jsp.java
+JSP
+*S JSP
+*F
++ 0 currentcustomers.jsp
+currentcustomers.jsp
+*L
+5,30:45
+35,32:76
+66,11:108
+*E
